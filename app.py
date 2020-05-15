@@ -14,5 +14,5 @@ api.add_resource(FullSeries, '/api/data/')
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
 
