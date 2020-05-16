@@ -1,5 +1,5 @@
 # Dados históricos sobre covid-19
-
+:thinking:
 Contrução de uma api(resteful) para fornecer dados históricos sobre a evolução do covid-19 nos estados do Brasil
 
 ## Instalação
