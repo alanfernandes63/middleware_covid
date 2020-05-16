@@ -22,7 +22,7 @@ Faça um fork do projeto e clone para sua máquina
   <li>requests</li>
 </ul>
 
-### Instalação
+### Instalação de dependências
 Na raiz do projeto execute os seguintes comandos
 ```
   source middleware-covid/bin/activate
