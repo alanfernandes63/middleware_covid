@@ -58,6 +58,4 @@ https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDa
 
 ## Contribuidores
 
-* **Alan Fernandes** - *Initial work* - [Alan Fernandes](https://github.com/alanfernandes63)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Alan Fernandes** - *Perfil github* - [Alan Fernandes](https://github.com/alanfernandes63)
