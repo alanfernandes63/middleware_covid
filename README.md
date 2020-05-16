@@ -16,9 +16,9 @@ Faça um fork do projeto e clone para sua máquina
 
 ### Instalação
 Na raiz do projeto execute
-<code>
+```
   source middleware-covid/bin/activate
-</code>
+```
 
 Say what the step will be
 
