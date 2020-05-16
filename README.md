@@ -41,18 +41,16 @@ Para verificar se ocorreu tudo certo acesse este link:
 [localhost:5000](http://localhost:5000)
 <br>
 Se ocorreu tudo certo você deve visualizar a documentação da api
-```
-Give the example
-```
 
-And repeat
-
+###Consultando dados
+Desenvolvimento
 ```
-until finished
+http://localhost:5000/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+Produção
+```
+https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd
+```
 ```
 Give an example
 ```
