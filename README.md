@@ -50,22 +50,11 @@ Produção
 ```
 https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=uf
 ```
+### Site
+[dashboard-covid19](https://nostalgic-beaver-d44652.netlify.app)
+
 ### Base de dados
 [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api)
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
