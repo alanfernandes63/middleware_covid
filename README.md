@@ -23,8 +23,12 @@ Na raiz do projeto execute os seguintes comandos
   pip3 install requirements.txt
 ```
 
-Say what the step will be
-
+### Executando o projeto
+Na raiz do projeto execute
+```
+python3 app.py
+```
+[](http://localhost:5000)
 ```
 Give the example
 ```
