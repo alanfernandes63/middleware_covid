@@ -1,6 +1,6 @@
 # Dados históricos sobre covid-19
 
-Contrução de uma api(resteful) para fornecer dados históricos sobre a evolução do covid-19 nos estados do Brasil
+Construção de uma api(resteful) para fornecer dados históricos sobre a evolução dos casos e número de óbitos do covid-19 nos estados do Brasil
 
 ## Instalação
 
