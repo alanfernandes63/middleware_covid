@@ -1,14 +1,18 @@
 # Dados históricos sobre covid-19
 
-Contrução de uma api(resteful) para fornecer dados históricos sobre a evolução do covivid-19 nos estados do Brasil
+Contrução de uma api(resteful) para fornecer dados históricos sobre a evolução do covid-19 nos estados do Brasil
 
 ## Instalação
 
-Faça um fork do projeto
+Faça um fork do projeto e clone para sua máquina
 
-### Prerequisites
+### Pré-requisitos
 
-What things you need to install the software and how to install them
+<ul>
+  <li>Phython3</li>
+  <li>Pip3</li>
+  <li>Virtualenv</li>
+</ul>
 
 ```
 Give examples
