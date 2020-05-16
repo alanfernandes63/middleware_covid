@@ -15,9 +15,12 @@ Faça um fork do projeto e clone para sua máquina
 </ul>
 
 ### Instalação
-Na raiz do projeto execute
+Na raiz do projeto execute os seguintes comandos
 ```
   source middleware-covid/bin/activate
+```
+```
+  pip3 install requirements.txt
 ```
 
 Say what the step will be
