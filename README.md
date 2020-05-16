@@ -20,7 +20,6 @@ Faça um fork do projeto e clone para sua máquina
   <li>Flask-Cors</li>
   <li>Flask-Restplus</li>
   <li>requests</li>
-  
 </ul>
 
 ### Instalação
@@ -45,11 +44,11 @@ Se ocorreu tudo certo você deve visualizar a documentação da api
 ### Consultando dados
 Desenvolvimento
 ```
-http://localhost:5000/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd
+http://localhost:5000/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=uf
 ```
 Produção
 ```
-https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd
+https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=uf
 ```
 ```
 Give an example
