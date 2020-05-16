@@ -42,7 +42,7 @@ Para verificar se ocorreu tudo certo acesse este link:
 <br>
 Se ocorreu tudo certo você deve visualizar a documentação da api
 
-###Consultando dados
+### Consultando dados
 Desenvolvimento
 ```
 http://localhost:5000/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd
