@@ -1,5 +1,5 @@
 # Dados históricos sobre covid-19
-:thinking:
+
 Contrução de uma api(resteful) para fornecer dados históricos sobre a evolução do covid-19 nos estados do Brasil
 
 ## Instalação
@@ -14,13 +14,11 @@ Faça um fork do projeto e clone para sua máquina
   <li>Virtualenv</li>
 </ul>
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
+### Instalação
+Na raiz do projeto execute
+<code>
+  source middleware-covid/bin/activate
+</code>
 
 Say what the step will be
 
