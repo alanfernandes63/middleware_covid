@@ -30,6 +30,7 @@ python3 app.py
 ```
 Para verificar se ocorreu tudo certo acesse este link:
 [localhost:5000](http://localhost:5000)
+<br>
 Se ocorreu tudo certo você deve visualizar a documentação
 ```
 Give the example
