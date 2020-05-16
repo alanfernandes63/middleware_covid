@@ -28,7 +28,7 @@ Na raiz do projeto execute
 ```
 python3 app.py
 ```
-[](http://localhost:5000)
+[localhost:5000](http://localhost:5000)
 ```
 Give the example
 ```
