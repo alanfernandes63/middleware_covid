@@ -56,8 +56,8 @@ https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDa
 ### Base de dados
 [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api)
 
-## Authors
+## Contribuidores
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Alan Fernandes** - *Initial work* - [Alan Fernandes](https://github.com/alanfernandes63)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
