@@ -14,6 +14,15 @@ Faça um fork do projeto e clone para sua máquina
   <li>Virtualenv</li>
 </ul>
 
+### Bibliotecas utilizadas
+<ul>
+  <li>Flask</li>
+  <li>Flask-Cors</li>
+  <li>Flask-Restplus</li>
+  <li>requests</li>
+  
+</ul>
+
 ### Instalação
 Na raiz do projeto execute os seguintes comandos
 ```
@@ -31,7 +40,7 @@ python3 app.py
 Para verificar se ocorreu tudo certo acesse este link:
 [localhost:5000](http://localhost:5000)
 <br>
-Se ocorreu tudo certo você deve visualizar a documentação
+Se ocorreu tudo certo você deve visualizar a documentação da api
 ```
 Give the example
 ```
