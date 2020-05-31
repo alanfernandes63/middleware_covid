@@ -48,7 +48,7 @@ http://localhost:5000/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=uf
 ```
 Produção
 ```
-https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=uf
+https://middleware-covid19.herokuapp.com/api/data/?initialDate=yyyy-MM-dd&lastDate=yyyy-MM-dd&uf=UF
 ```
 ### Site
 [dashboard-covid19](https://nostalgic-beaver-d44652.netlify.app)
